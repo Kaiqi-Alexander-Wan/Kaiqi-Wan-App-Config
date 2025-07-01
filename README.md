@@ -1,1 +1,1 @@
-# System development for KaiTech
+# System development - Genesis Protocol
